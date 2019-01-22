@@ -3,8 +3,8 @@ spring.datasource.maxActive=10
 spring.datasource.maxIdle=5
 spring.datasource.minIdle=2
 <<<<<<< HEAD
-spring.datasource.initialSize=6
+spring.datasource.initialSize=1
 =======
-spring.datasource.initialSize=3
->>>>>>> bce28fe713e9c2f06452c8592e88e1b5f41abe50
+spring.datasource.initialSize=2
+>>>>>>> b72d0b3017f7942a60b3cd1babcf89f5b256e782
 spring.datasource.removeAbandoned=true
